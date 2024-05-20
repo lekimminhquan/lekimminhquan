@@ -5,8 +5,8 @@
 ### Hi there 👋 I'am Minh Quân Lê Kim, a Frontend developer. 
 
 ### ⚡⚡⚡ My language program: 
-  - HTML, CSS,
-  - Javascripts(ES6), Reactjs,
+  - HTML, CSS.
+  - Javascripts(ES6), Reactjs.
   - Python, Django.
 
 
