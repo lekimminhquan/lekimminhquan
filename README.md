@@ -1,3 +1,8 @@
+
+![image](https://github.com/lekimminhquan/lekimminhquan/assets/62638240/12b3d083-da72-4e30-8612-b958882b3e33)
+
+
+
 ### Hi there 👋 I'am Minh Quân Lê Kim, a Frontend developer. 
 
 ### My language program: HTML, CSS, Javascripts(ES6),Reactjs, Python, Django.
