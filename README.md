@@ -1,6 +1,8 @@
 ### Hi there 👋 I'am Minh Quân Lê Kim, a Frontend developer. 
 
-### My language program: HTML,CSS, Javascripts(ES6), Python, Django. 
+### My language program: HTML,CSS, Javascripts(ES6), Python, Django.
+![image](https://github.com/lekimminhquan/lekimminhquan/assets/62638240/dc92ba6e-f693-4a42-b2c3-3f1f16215302)
+
 <!--
 **lekimminhquan/lekimminhquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
