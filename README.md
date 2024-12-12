@@ -6,7 +6,7 @@
 
 ### ⚡⚡⚡ My language program: 
   - HTML, CSS.
-  - Javascripts(ES6), Reactjs.
+  - Javascripts(ES6), ReactJS, Typescripts, NextJS, Tailwind, Mantine UI, Sass.
   - Python, Django.
 
 
